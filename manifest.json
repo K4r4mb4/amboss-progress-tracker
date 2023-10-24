@@ -1,0 +1,8 @@
+{
+    "manifest_version": 2,
+    "name": "Amboss Progress Tracker",
+    "version": "1.0",
+
+    "description": "Tracks your progress on the amboss.com website",
+    "homepage_url": "https://github.com/K4r4mb4/amboss-progress-tracker"    
+  }
